@@ -1,0 +1,8 @@
+years:
+ - 2024
+ - 2019
+pm25_norm: 15 # µg/m3 (dobowa)
+entrez_email:
+ - "history.user@example.com"
+pubmed_limit: 1000
+pubmed_batch_size: 100
